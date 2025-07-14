@@ -1,3 +1,4 @@
+# Test trigger
 # scripts/light_check.py
 import datetime
 
